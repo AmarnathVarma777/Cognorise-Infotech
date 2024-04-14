@@ -16,4 +16,5 @@ The analysis is divided into four sections, saved in juypter notebooks in this r
 4. Build model to predict whether
    
  .breast cell tissue is malignant or Benign
+ 
  .Wheather a person is diabetic or not
